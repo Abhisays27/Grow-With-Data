@@ -2,7 +2,7 @@ import React from "react";
 import laptop from "../assests/laptop.jpg";
 const Analytics = () => {
   return (
-    <div className="w-full bg-slate-50 py-16 px-4 ">
+    <div className="w-full bg-slate-50 py-16 px-4 p-24">
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-2  ">
         <img src={laptop} alt="/" className="w-[500px] mx-auto my-4" />
         <div className=" flex flex-col justify-center">
